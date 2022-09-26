@@ -1,6 +1,6 @@
-# 2022-KoreaGDSC-Rust-Backend
+# 2022-Korea-Rust-Backend
 
-2022-KoreaGDSC-Rust-Backend is the material (lecture notes, examples and assignments) repository for learning Rust programming language and making simple backend service at Korea University Google Developer Student Clubs (GDSC).
+2022-Korea-Rust-Backend is the material (lecture notes, examples and assignments) repository for learning Rust programming language and making simple backend service at Korea University Google Developer Student Clubs (GDSC).
 
 ## Contents
 
