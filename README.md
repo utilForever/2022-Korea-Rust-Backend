@@ -9,7 +9,7 @@
 - Week 1 (9/27) [[Lecture]](./1%20-%20Lecture/220927%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%201.pdf)
   - A Tour of Rust, Part 1
   - Assignment #1
-- Week 2 (10/4)
+- Week 2 (10/4) [[Lecture]](./1%20-%20Lecture/221004%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%202.pdf)
   - A Tour of Rust, Part 2
   - Assignment #2
 - Week 3 (10/25)
