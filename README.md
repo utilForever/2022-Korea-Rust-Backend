@@ -6,7 +6,7 @@
 
 - Week 0 (9/27) [[Lecture]](./1%20-%20Lecture/220927%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%200.pdf)
   - Introduction
-- Week 1 (9/27) [[Lecture]](./1%20-%20Lecture/220927%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%201.pdf) [[Assignment]](./3%20-%20Assignment/220927%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%201)
+- Week 1 (9/27) [[Lecture]](./1%20-%20Lecture/220927%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%201.pdf) [[Assignment]](./3%20-%20Assignment/220927%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%201) [[Solution]](./4%20-%20Solution/220927%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%201)
   - A Tour of Rust, Part 1
   - Assignment #1
 - Week 2 (10/4) [[Lecture]](./1%20-%20Lecture/221004%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%202.pdf) [[Assignment]](./3%20-%20Assignment/221004%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%202)
