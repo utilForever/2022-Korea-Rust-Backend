@@ -12,18 +12,18 @@
 - Week 2 (10/4) [[Lecture]](./1%20-%20Lecture/221004%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%202.pdf) [[Assignment]](./3%20-%20Assignment/221004%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%202)
   - A Tour of Rust, Part 2
   - Assignment #2
-- Week 3 (10/25)
+- Week 3 (11/1)
   - Backend Development, Part 1
     - Building an Email Newsletter
     - Sign Up a New Subscriber
     - Telemetry
     - Going Live
-- Week 4 (11/1)
+- Week 4 (11/8)
   - Backend Development, Part 2
     - Reject Invalid Subscriber #1
     - Reject Invalid Subscriber #2
     - Error Handling
-- Week 5 (11/8)
+- Week 5 (11/15)
   - Backend Development, Part 3
     - Naive Newsletter Delivery
     - Securing Our API
