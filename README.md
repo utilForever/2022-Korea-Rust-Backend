@@ -10,23 +10,39 @@
   - A Tour of Rust, Part 1
   - Assignment #1
 - Week 2 (10/4) [[Lecture]](./1%20-%20Lecture/221004%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%202.pdf) [[Assignment]](./3%20-%20Assignment/221004%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%202)
+  - Explanation of Assignment #1
   - A Tour of Rust, Part 2
   - Assignment #2
 - Week 3 (11/1)
+  - Explanation of Assignment #2
   - Backend Development, Part 1
     - Building an Email Newsletter
     - Sign Up a New Subscriber
-    - Telemetry
-    - Going Live
 - Week 4 (11/8)
   - Backend Development, Part 2
-    - Reject Invalid Subscriber #1
-    - Reject Invalid Subscriber #2
-    - Error Handling
-- Week 5 (11/15)
+    - Telemetry
+    - Going Live
+- Week 5 (TBD)
   - Backend Development, Part 3
+    - Reject Invalid Subscriber #1
+- Week 6 (TBD)
+  - Backend Development, Part 4
+    - Reject Invalid Subscriber #2
+- Week 7 (TBD)
+  - Backend Development, Part 5
+    - Reject Invalid Subscriber #3
+- Week 8 (TBD)
+  - Backend Development, Part 6
+    - Error Handling
     - Naive Newsletter Delivery
-    - Securing Our API
+- Week 9 (TBD)
+  - Backend Development, Part 7
+    - Securing Our API #1
+- Week 10 (TBD)
+  - Backend Development, Part 8
+    - Securing Our API #2
+- Week 11 (TBD)
+  - Backend Development, Part 9
     - Fault-tolerant Workflow
 
 ## References
