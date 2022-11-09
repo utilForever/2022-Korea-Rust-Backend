@@ -15,7 +15,7 @@
   - Assignment #2
 - Week 3 (11/1)
   - Explanation of Assignment #2
-- Week 4 (11/8)  
+- Week 4 (11/8) [[Example]](./2%20-%20Example/221108%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%204)
   - Backend Development, Part 1
     - Building an Email Newsletter
     - Sign Up a New Subscriber #1
