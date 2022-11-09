@@ -15,33 +15,36 @@
   - Assignment #2
 - Week 3 (11/1)
   - Explanation of Assignment #2
+- Week 4 (11/8)  
   - Backend Development, Part 1
     - Building an Email Newsletter
-    - Sign Up a New Subscriber
-- Week 4 (11/8)
+    - Sign Up a New Subscriber #1
+- Week 5 (11/15)
   - Backend Development, Part 2
+    - Sign Up a New Subscriber #2
+- Week 6 (TBD)    
     - Telemetry
     - Going Live
-- Week 5 (TBD)
+- Week 7 (TBD)
   - Backend Development, Part 3
     - Reject Invalid Subscriber #1
-- Week 6 (TBD)
+- Week 8 (TBD)
   - Backend Development, Part 4
     - Reject Invalid Subscriber #2
-- Week 7 (TBD)
+- Week 9 (TBD)
   - Backend Development, Part 5
     - Reject Invalid Subscriber #3
-- Week 8 (TBD)
+- Week 10 (TBD)
   - Backend Development, Part 6
     - Error Handling
     - Naive Newsletter Delivery
-- Week 9 (TBD)
+- Week 11 (TBD)
   - Backend Development, Part 7
     - Securing Our API #1
-- Week 10 (TBD)
+- Week 12 (TBD)
   - Backend Development, Part 8
     - Securing Our API #2
-- Week 11 (TBD)
+- Week 13 (TBD)
   - Backend Development, Part 9
     - Fault-tolerant Workflow
 
