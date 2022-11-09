@@ -23,29 +23,30 @@
   - Backend Development, Part 2
     - Sign Up a New Subscriber #2
 - Week 6 (TBD)    
+  - Backend Development, Part 3
     - Telemetry
     - Going Live
 - Week 7 (TBD)
-  - Backend Development, Part 3
+  - Backend Development, Part 4
     - Reject Invalid Subscriber #1
 - Week 8 (TBD)
-  - Backend Development, Part 4
+  - Backend Development, Part 5
     - Reject Invalid Subscriber #2
 - Week 9 (TBD)
-  - Backend Development, Part 5
+  - Backend Development, Part 6
     - Reject Invalid Subscriber #3
 - Week 10 (TBD)
-  - Backend Development, Part 6
+  - Backend Development, Part 7
     - Error Handling
     - Naive Newsletter Delivery
 - Week 11 (TBD)
-  - Backend Development, Part 7
+  - Backend Development, Part 8
     - Securing Our API #1
 - Week 12 (TBD)
-  - Backend Development, Part 8
+  - Backend Development, Part 9
     - Securing Our API #2
 - Week 13 (TBD)
-  - Backend Development, Part 9
+  - Backend Development, Part 10
     - Fault-tolerant Workflow
 
 ## References
