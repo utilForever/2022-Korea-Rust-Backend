@@ -19,34 +19,47 @@
   - Backend Development, Part 1
     - Building an Email Newsletter
     - Sign Up a New Subscriber #1
+      - Choosing A Web Framework
+      - Our First Endpoint: A Basic Health Check
+      - Our First Integration Test
+      - Implementing Our First Integration Test    
 - Week 5 (11/15)
   - Backend Development, Part 2
     - Sign Up a New Subscriber #2
-- Week 6 (TBD)    
+      - Polishing & Refocus
+      - Working With HTML Forms
+      - Storing Data: Databases
+- Week 6 (11/22)
   - Backend Development, Part 3
+    - Sign Up a New Subscriber #3
+      - Storing Data: Databases
+      - Persisting A New Subscriber
+      - Updating Our Tests
+- Week 7 (TBD)    
+  - Backend Development, Part 4
     - Telemetry
     - Going Live
-- Week 7 (TBD)
-  - Backend Development, Part 4
-    - Reject Invalid Subscriber #1
 - Week 8 (TBD)
   - Backend Development, Part 5
-    - Reject Invalid Subscriber #2
+    - Reject Invalid Subscriber #1
 - Week 9 (TBD)
   - Backend Development, Part 6
-    - Reject Invalid Subscriber #3
+    - Reject Invalid Subscriber #2
 - Week 10 (TBD)
   - Backend Development, Part 7
-    - Error Handling
-    - Naive Newsletter Delivery
+    - Reject Invalid Subscriber #3
 - Week 11 (TBD)
   - Backend Development, Part 8
-    - Securing Our API #1
+    - Error Handling
+    - Naive Newsletter Delivery
 - Week 12 (TBD)
   - Backend Development, Part 9
-    - Securing Our API #2
+    - Securing Our API #1
 - Week 13 (TBD)
   - Backend Development, Part 10
+    - Securing Our API #2
+- Week 14 (TBD)
+  - Backend Development, Part 11
     - Fault-tolerant Workflow
 
 ## References
