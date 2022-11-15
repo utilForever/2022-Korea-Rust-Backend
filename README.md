@@ -23,7 +23,7 @@
       - Our First Endpoint: A Basic Health Check
       - Our First Integration Test
       - Implementing Our First Integration Test    
-- Week 5 (11/15)
+- Week 5 (11/15) [[Example]](./2%20-%20Example/221115%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%205)
   - Backend Development, Part 2
     - Sign Up a New Subscriber #2
       - Polishing & Refocus
