@@ -29,7 +29,7 @@
       - Polishing & Refocus
       - Working With HTML Forms
       - Storing Data: Databases
-- Week 6 (11/22)
+- Week 6 (11/22) [[Example]](./2%20-%20Example/221122%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%206)
   - Backend Development, Part 3
     - Sign Up a New Subscriber #3
       - Storing Data: Databases
