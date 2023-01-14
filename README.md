@@ -4,6 +4,8 @@
 
 ## Contents
 
+### Part 1
+
 - Week 0 (9/27) [[Lecture]](./1%20-%20Lecture/220927%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%200.pdf)
   - Introduction
 - Week 1 (9/27) [[Lecture]](./1%20-%20Lecture/220927%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%201.pdf) [[Assignment]](./3%20-%20Assignment/220927%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%201) [[Solution]](./4%20-%20Solution/220927%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%201)
@@ -35,30 +37,38 @@
       - Storing Data: Databases
       - Persisting A New Subscriber
       - Updating Our Tests
-- Week 7 (TBD)    
+
+### Part 2
+
+- Week 0 (1/14)
+  - Introduction
+- Week 1 (1/17)
+  - A Tour of Rust, Part 3
+  - Assignment #3
+- Week 2 (1/27)
   - Backend Development, Part 4
     - Telemetry
     - Going Live
-- Week 8 (TBD)
+- Week 3 (1/31)
   - Backend Development, Part 5
     - Reject Invalid Subscriber #1
-- Week 9 (TBD)
+- Week 4 (2/7)
   - Backend Development, Part 6
     - Reject Invalid Subscriber #2
-- Week 10 (TBD)
+- Week 5 (2/14)
   - Backend Development, Part 7
     - Reject Invalid Subscriber #3
-- Week 11 (TBD)
+- Week 6 (2/21)
   - Backend Development, Part 8
     - Error Handling
     - Naive Newsletter Delivery
-- Week 12 (TBD)
+- Week 7 (2/28)
   - Backend Development, Part 9
     - Securing Our API #1
-- Week 13 (TBD)
+- Week 8 (3/7)
   - Backend Development, Part 10
     - Securing Our API #2
-- Week 14 (TBD)
+- Week 9 (3/14)
   - Backend Development, Part 11
     - Fault-tolerant Workflow
 
