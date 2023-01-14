@@ -40,7 +40,7 @@
 
 ### Part 2
 
-- Week 0 (1/14)
+- Week 0 (1/14) [[Lecture]](./1%20-%20Lecture/230114%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%200.pdf)
   - Introduction
 - Week 1 (1/17)
   - A Tour of Rust, Part 3
