@@ -42,34 +42,36 @@
 
 - Week 0 (1/14) [[Lecture]](./1%20-%20Lecture/230114%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%200.pdf)
   - Introduction
-- Week 1 (1/17)
-  - A Tour of Rust, Part 3
-  - Assignment #3
-- Week 2 (1/27)
+- Week 7 (1/28)
   - Backend Development, Part 4
     - Telemetry
-    - Going Live
-- Week 3 (1/31)
+- Week 8 (1/31)
   - Backend Development, Part 5
-    - Reject Invalid Subscriber #1
-- Week 4 (2/7)
+    - Going Live
+- Week 9 (2/4)
+  - A Tour of Rust, Part 3
+  - Assignment #3
+- Week 10 (2/7)
   - Backend Development, Part 6
-    - Reject Invalid Subscriber #2
-- Week 5 (2/14)
+    - Reject Invalid Subscriber #1
+- Week 11 (2/14)
   - Backend Development, Part 7
-    - Reject Invalid Subscriber #3
-- Week 6 (2/21)
+    - Reject Invalid Subscriber #2
+- Week 12 (2/21)
   - Backend Development, Part 8
+    - Reject Invalid Subscriber #3
+- Week 13 (2/28)
+  - Backend Development, Part 9
     - Error Handling
     - Naive Newsletter Delivery
-- Week 7 (2/28)
-  - Backend Development, Part 9
-    - Securing Our API #1
-- Week 8 (3/7)
+- Week 14 (3/7)
   - Backend Development, Part 10
-    - Securing Our API #2
-- Week 9 (3/14)
+    - Securing Our API #1
+- Week 15 (3/14)
   - Backend Development, Part 11
+    - Securing Our API #2
+- Week 16 (3/21)
+  - Backend Development, Part 12
     - Fault-tolerant Workflow
 
 ## References
