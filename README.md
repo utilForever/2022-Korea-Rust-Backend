@@ -42,7 +42,7 @@
 
 - Week 0 (1/14) [[Lecture]](./1%20-%20Lecture/230114%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%200.pdf)
   - Introduction
-- Week 7 (1/28)
+- Week 7 (1/28) [[Example]](./2%20-%20Example/230128%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%207)
   - Backend Development, Part 4
     - Telemetry
 - Week 8 (1/31)
