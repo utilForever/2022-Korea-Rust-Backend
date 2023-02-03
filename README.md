@@ -48,31 +48,31 @@
 - Week 8 (1/31) [[Example]](./2%20-%20Example/230131%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%208)
   - Backend Development, Part 5
     - Going Live
-- Week 9 (2/4)
-  - A Tour of Rust, Part 3
-  - Assignment #3
-- Week 10 (2/7)
+- Week 9 (2/7)
   - Backend Development, Part 6
     - Reject Invalid Subscriber #1
-- Week 11 (2/14)
+- Week 10 (2/14)
   - Backend Development, Part 7
     - Reject Invalid Subscriber #2
-- Week 12 (2/21)
+- Week 11 (2/21)
   - Backend Development, Part 8
     - Reject Invalid Subscriber #3
-- Week 13 (2/28)
+- Week 12 (2/28)
   - Backend Development, Part 9
     - Error Handling
     - Naive Newsletter Delivery
-- Week 14 (3/7)
+- Week 13 (3/7)
   - Backend Development, Part 10
     - Securing Our API #1
-- Week 15 (3/14)
+- Week 14 (3/14)
   - Backend Development, Part 11
     - Securing Our API #2
-- Week 16 (3/21)
+- Week 15 (3/21)
   - Backend Development, Part 12
     - Fault-tolerant Workflow
+- Week ? (TBA)
+  - A Tour of Rust, Part 3
+  - Assignment #3
 
 ## References
 
