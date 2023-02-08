@@ -48,7 +48,7 @@
 - Week 8 (1/31) [[Example]](./2%20-%20Example/230131%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%208)
   - Backend Development, Part 5
     - Going Live
-- Week 9 (2/7)
+- Week 9 (2/7) [[Example]](./2%20-%20Example/230207%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%209)
   - Backend Development, Part 6
     - Reject Invalid Subscriber #1
 - Week 10 (2/14)
