@@ -1,2 +1,3 @@
-# zero-to-production
-The code of Zero To Production In Rust for exercise
+# Week 9 - Example
+
+Example code for Rust Basic + Backend Programming, Week 9
