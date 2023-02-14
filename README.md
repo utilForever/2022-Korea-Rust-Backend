@@ -59,16 +59,19 @@
     - Reject Invalid Subscriber #3
 - Week 12 (2/28)
   - Backend Development, Part 9
-    - Error Handling
-    - Naive Newsletter Delivery
+    - Reject Invalid Subscriber #4
 - Week 13 (3/7)
   - Backend Development, Part 10
-    - Securing Our API #1
+    - Error Handling
+    - Naive Newsletter Delivery
 - Week 14 (3/14)
   - Backend Development, Part 11
-    - Securing Our API #2
+    - Securing Our API #1
 - Week 15 (3/21)
   - Backend Development, Part 12
+    - Securing Our API #2
+- Week 16 (3/28)
+  - Backend Development, Part 13
     - Fault-tolerant Workflow
 - Week ? (TBA)
   - A Tour of Rust, Part 3
