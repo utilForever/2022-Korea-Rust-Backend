@@ -51,7 +51,7 @@
 - Week 9 (2/7) [[Example]](./2%20-%20Example/230207%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%209)
   - Backend Development, Part 6
     - Reject Invalid Subscriber #1
-- Week 10 (2/14)
+- Week 10 (2/14) [[Example]](./2%20-%20Example/230214%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%2010)
   - Backend Development, Part 7
     - Reject Invalid Subscriber #2
 - Week 11 (2/21)
