@@ -54,28 +54,34 @@
 - Week 10 (2/14) [[Example]](./2%20-%20Example/230214%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%2010)
   - Backend Development, Part 7
     - Reject Invalid Subscriber #2
-- Week 11 (2/21)
+- Week 11 (3/10)
+  - A Tour of Rust, Part 3
+  - Assignment #3
+- Week 12 (3/14)
+  - A Tour of Rust, Part 4
+  - Assignment #4
+- Week 13 (3/21)
+  - A Tour of Rust, Part 5
+  - Assignment #5
+- Week 14 (3/28)
   - Backend Development, Part 8
     - Reject Invalid Subscriber #3
-- Week 12 (2/28)
+- Week 15 (4/4)
   - Backend Development, Part 9
     - Reject Invalid Subscriber #4
-- Week 13 (3/7)
+- Week 16 (4/11)
   - Backend Development, Part 10
     - Error Handling
     - Naive Newsletter Delivery
-- Week 14 (3/14)
+- Week 17 (TBA)
   - Backend Development, Part 11
     - Securing Our API #1
-- Week 15 (3/21)
+- Week 18 (TBA)
   - Backend Development, Part 12
     - Securing Our API #2
-- Week 16 (3/28)
+- Week 19 (TBA)
   - Backend Development, Part 13
     - Fault-tolerant Workflow
-- Week ? (TBA)
-  - A Tour of Rust, Part 3
-  - Assignment #3
 
 ## References
 
