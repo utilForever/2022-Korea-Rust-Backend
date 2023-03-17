@@ -57,7 +57,7 @@
 - Week 11 (3/10) [[Lecture]](./1%20-%20Lecture/230310%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%2011.pdf) [[Assignment]](./3%20-%20Assignment/230310%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%2011)
   - A Tour of Rust, Part 3
   - Assignment #3
-- Week 12 (3/14)
+- Week 12 (3/14) [[Lecture]](./1%20-%20Lecture/230314%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%2012.pdf)
   - A Tour of Rust, Part 4
   - Assignment #4
 - Week 13 (3/21)
