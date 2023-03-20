@@ -57,32 +57,34 @@
 - Week 11 (3/10) [[Lecture]](./1%20-%20Lecture/230310%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%2011.pdf) [[Assignment]](./3%20-%20Assignment/230310%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%2011)
   - A Tour of Rust, Part 3
   - Assignment #3
-- Week 12 (3/14) [[Lecture]](./1%20-%20Lecture/230314%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%2012.pdf) [[Assignment]](./3%20-%20Assignment/230314%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%2012)
+- Week 12 (3/14) [[Lecture]](./1%20-%20Lecture/230314%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%2012.pdf)
+  - A Tour of Rust, Part 4
+- Week 13 (3/21) [[Assignment]](./3%20-%20Assignment/230314%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%2012)
   - A Tour of Rust, Part 4
   - Assignment #4
-- Week 13 (3/21)
+- Week 14 (3/28)
   - A Tour of Rust, Part 5
   - Assignment #5
-- Week 14 (3/28)
+- Week 15 (4/4)
   - A Tour of Rust, Part 6
   - Assignment #6
-- Week 15 (4/25)
+- Week 16 (5/2)
   - Backend Development, Part 8
     - Reject Invalid Subscriber #3
-- Week 16 (5/2)
+- Week 17 (5/9)
   - Backend Development, Part 9
     - Reject Invalid Subscriber #4
-- Week 17 (5/9)
+- Week 18 (5/16)
   - Backend Development, Part 10
     - Error Handling
     - Naive Newsletter Delivery
-- Week 18 (5/16)
+- Week 19 (5/23)
   - Backend Development, Part 11
     - Securing Our API #1
-- Week 19 (5/23)
+- Week 20 (5/30)
   - Backend Development, Part 12
     - Securing Our API #2
-- Week 20 (5/30)
+- Week 21 (6/6)
   - Backend Development, Part 13
     - Fault-tolerant Workflow
 
