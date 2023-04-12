@@ -59,7 +59,7 @@
   - Assignment #3
 - Week 12 (3/14) [[Lecture]](./1%20-%20Lecture/230314%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%2012.pdf)
   - A Tour of Rust, Part 4
-- Week 13 (3/21) [[Assignment]](./3%20-%20Assignment/230314%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%2012)
+- Week 13 (3/21) [[Assignment]](./3%20-%20Assignment/230314%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%2012) [[Solution]](./4%20-%20Solution/230314%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%2012)
   - A Tour of Rust, Part 4
   - Assignment #4
 - Week 14 (4/13)
