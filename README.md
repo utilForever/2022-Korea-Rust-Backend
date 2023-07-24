@@ -80,7 +80,7 @@
 - Week 19 (7/17) [[Example]](./2%20-%20Example/230717%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%2019/)
   - Backend Development, Part 12
     - Naive Newsletter Delivery
-- Week 20 (7/24)
+- Week 20 (7/24) [[Example]](./2%20-%20Example/230724%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%2020/)
   - Backend Development, Part 13
     - Securing Our API #1
 - Week 21 (7/31)
