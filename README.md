@@ -88,6 +88,15 @@
     - Securing Our API #2
 - Week 22 (8/7)
   - Backend Development, Part 15
+    - Securing Our API #3
+- Week 23 (8/14)
+  - Backend Development, Part 16
+    - Securing Our API #4
+- Week 24 (8/21)
+  - Backend Development, Part 17
+    - Securing Our API #5
+- Week 25 (8/28)
+  - Backend Development, Part 18
     - Fault-tolerant Workflow
 
 ## References
