@@ -86,20 +86,23 @@
 - Week 21 (8/15) [[Example]](./2%20-%20Example/230815%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%2021/)
   - Backend Development, Part 14
     - Securing Our API #2
-- Week 22 (8/21)
+- Week 22 (8/17)
   - Backend Development, Part 15
     - Securing Our API #3
-- Week 23 (8/28)
+- Week 23 (8/21)
   - Backend Development, Part 16
     - Securing Our API #4
-- Week 24 (9/4)
+- Week 24 (8/28)
   - Backend Development, Part 17
     - Securing Our API #5
-- Week 25 (9/11)
+- Week 25 (9/4)
   - Backend Development, Part 18
+    - Securing Our API #6
+- Week 25 (9/11)
+  - Backend Development, Part 19
     - Fault-tolerant Workflow #1
 - Week 26 (9/18)
-  - Backend Development, Part 19
+  - Backend Development, Part 20
     - Fault-tolerant Workflow #2
 
 ## References
