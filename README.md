@@ -92,7 +92,7 @@
 - Week 23 (8/21) [[Example]](./2%20-%20Example/230821%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%2023/)
   - Backend Development, Part 16
     - Securing Our API #4
-- Week 24 (8/28)
+- Week 24 (8/28) [[Example]](./2%20-%20Example/230828%20-%20Rust%20Basic%20%2B%20Backend%20Programming%2C%20Week%2024/)
   - Backend Development, Part 17
     - Securing Our API #5
 - Week 25 (9/1)
