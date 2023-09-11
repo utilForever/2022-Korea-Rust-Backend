@@ -103,9 +103,12 @@
     - Securing Our API #7
 - Week 27 (9/11)
   - Backend Development, Part 20
-    - Fault-tolerant Workflow #1
+    - Securing Our API #8
 - Week 28 (9/18)
   - Backend Development, Part 21
+    - Fault-tolerant Workflow #1
+- Week 29 (9/25)
+  - Backend Development, Part 22
     - Fault-tolerant Workflow #2
 
 ## References
